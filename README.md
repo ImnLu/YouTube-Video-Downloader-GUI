@@ -8,7 +8,7 @@ You can download and use the project from the 'Releases' section. (includes ffmp
 Features
 ====================================
   1. Download the video you want in up to 8K quality.
-  2. If the video download is interrupted, continue where you left off. (After four successful video downloads, any previous interrupted video remnants will be deleted.) (yt_dlp feature)
+  2. If the video download is interrupted, continue where you left off. (After four successful video downloads, any previous interrupted video remnants will be deleted.)
   3. You can instantly see the progress bar and how many minutes are left for the video to download.
 
 To do list
