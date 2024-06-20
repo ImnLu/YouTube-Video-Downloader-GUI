@@ -16,7 +16,7 @@ To do list
   1. Context menu for textbox
   2. A label showing what percentage it is in
 
-Requirements FFMPEG
+Installing FFMPEG
 ====================================
   For Windows
   1. Download FFMPEG files: https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z (in bin folder)
